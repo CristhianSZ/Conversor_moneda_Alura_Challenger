@@ -1,0 +1,52 @@
+[
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "ARS",
+      "Monto_a_Convertir": 11.0,
+      "Resultado": 10066.869999999999,
+      "Tasa_Conversion": 915.17
+    },
+    "timestamp": "2024-07-03 18:30:35"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 123.0,
+      "Resultado": 0.02976108,
+      "Tasa_Conversion": 2.4196E-4
+    },
+    "timestamp": "2024-07-03 18:45:52"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 12.0,
+      "Resultado": 0.0029035199999999997,
+      "Tasa_Conversion": 2.4196E-4
+    },
+    "timestamp": "2024-07-03 18:55:44"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "ARS",
+      "Monto_a_Convertir": 10.0,
+      "Resultado": 9151.699999999999,
+      "Tasa_Conversion": 915.17
+    },
+    "timestamp": "2024-07-03 18:56:23"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "PLN",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1000.0,
+      "Resultado": 248.9,
+      "Tasa_Conversion": 0.2489
+    },
+    "timestamp": "2024-07-03 19:08:10"
+  }
+]

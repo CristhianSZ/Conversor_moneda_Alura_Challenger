@@ -102,8 +102,9 @@ public class Conversion {
      * @return El registro de la conversión.
      */
     public RegistroConversion convertir(String codMonOrigen, String codMonDestino, int monto) {
+        
         // Construir la URI para la solicitud a la API
-        URI direccion_API = URI.create(" [https://v6.exchangerate-api.com/v6/b1e50dc5c5e229b802615b8b/pair/"
+        URI direccion_API = URI.create("https://v6.exchangerate-api.com/v6/b1e50dc5c5e229b802615b8b/pair/"
                 + codMonOrigen + "/" + codMonDestino + "/" + monto);
 
         // Crear cliente y solicitud HTTP
@@ -127,6 +128,7 @@ public class Conversion {
             // Configurar Gson para deserializar la respuesta
             Gson gson = new GsonBuilder()
                     .registerTypeAdapter(LocalDateTime.class, new LocalDateTimeAdapter())
+                    .setPrettyPrinting()
                     .create();
 
             // Deserializar la respuesta en un objeto ConversionResponse
