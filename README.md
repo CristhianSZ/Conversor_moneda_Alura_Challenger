@@ -672,7 +672,7 @@ public class MenuHandler {
 &nbsp;
 &nbsp;
 
-### 11. **Hacer un README:** [![Static Badge](https://img.shields.io/badge/status-OK-gree)](#)
+### 11. **Hacer un README:** 
 Uno de los pasos más importantes al participar en una selección de trabajo es resolver un desafío propuesto por la empresa con la información de la resolución, y generalmente esto debe estar en el README. ¿Y qué es el README? Es un archivo con extensión .md y es un documento con la descripción del proyecto.
 Este mismo archivo que se esta leyendo fue el resultado del README para el Challenge.
 
@@ -681,7 +681,7 @@ Este mismo archivo que se esta leyendo fue el resultado del README para el Chall
 
 Se nos propueso nn caso que quiecieramos desafiarnos aún más y proporcionar a los usuarios una experiencia más rica y personalizada, hay diversas funcionalidades interesantes que puedes explorar:
 
-#### 12.1  Historial de Conversiones: [![Static Badge](https://img.shields.io/badge/status-OK-gree)](#)
+#### 12.1  Historial de Conversiones:
 Agregar la capacidad de rastrear y mostrar el historial de las últimas conversiones realizadas, brindando a los usuarios una visión completa de sus actividades.
 
 ####  Registro de Historial en Archivo JSON 
@@ -752,7 +752,7 @@ Registro en el archivo `registros_data_time.json`:
 ```
 
 
-#### 12.2  Soporte para Más Monedas: [![Static Badge](https://img.shields.io/badge/status-OK-gree)](#)
+#### 12.2  Soporte para Más Monedas: 
 Se amplía la lista de monedas disponibles para la elección, permitiendo a los usuarios convertir entre una variedad aún mayor de opciones monetarias.La API admite las 161 monedas mundiales que circulan habitualmente. Estos cubren el 99% de todos los estados y territorios reconocidos por la ONU.
 
 ***Fragmento de codigo utilizado en la Class `MenuHandler.java` para seleccionar otras monedas que se desea convertir. En el menu principal la opcion 7 nos lleva a `7-Elegir otro tipo de monedas a convertir: donde nos mostra 100 codigos currency con sus respectivos paises` cumpliendo con la opcion adicional del challenge de Soporte para Más Monedas ***
@@ -814,7 +814,7 @@ Se amplía la lista de monedas disponibles para la elección, permitiendo a los 
 
 &nbsp;
 
-#### 12.3  Registros con Marca de Tiempo: [![Static Badge](https://img.shields.io/badge/status-OK-gree)](#)
+#### 12.3  Registros con Marca de Tiempo: 
 
 Se creo la clase `LocalDateTimeAdapter`, para cumplir con este adicional del desafio.
 
