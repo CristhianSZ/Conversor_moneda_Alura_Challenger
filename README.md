@@ -20,6 +20,8 @@ Los pasos solicitados para completar este desafío:
     12.1 Historial de Conversiones
     12.2 Soporte para Más Monedas
     12.3 Registros con Marca de Tiempo
+13. Capturas
+
 
 &nbsp;
 
@@ -885,7 +887,7 @@ public class LocalDateTimeAdapter implements JsonSerializer<LocalDateTime>, Json
   }
 ```
 
-### 14. Video Y Capturas de pantalla
+### 13. Video Y Capturas de pantalla
 
 &nbsp;
 
