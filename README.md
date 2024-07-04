@@ -887,7 +887,7 @@ public class LocalDateTimeAdapter implements JsonSerializer<LocalDateTime>, Json
   }
 ```
 
-### 13. Video Y Capturas de pantalla
+### 13. Capturas de pantalla
 
 &nbsp;
 
