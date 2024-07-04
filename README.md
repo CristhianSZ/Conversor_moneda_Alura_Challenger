@@ -101,7 +101,7 @@ Para importar la biblioteca Gson en IntelliJ, sigue estos pasos:
 
 &nbsp;
 *En esta captura de pantalla se muestra la importacion de la biblioteca Gson.*
-[![Screenshot interactuando y probando los key con la aplicacion Postman]()](#)
+[![Screenshot interactuando y probando los key con la aplicacion Postman](https://github.com/CristhianSZ/Conversor_moneda_Alura_Challenger/blob/main/recursos/img/img1.png)](#)
 
 &nbsp;
 
@@ -207,7 +207,7 @@ Como ya habiamos identificado los campos de la API,  __`base_code`, `target_code
 
 &nbsp;
 *En esta captura de pantalla se muestra la interacción con el software Postman.*
-[![Screenshot interactuando y probando los key con la aplicacion Postman]()](#)
+[![Screenshot interactuando y probando los key con la aplicacion Postman](https://github.com/CristhianSZ/Conversor_moneda_Alura_Challenger/blob/main/recursos/img/img2.png)](#)
 
 &nbsp;
 
@@ -302,7 +302,7 @@ En este proyecto se utilizaron 4 codigos iniciales:
 
 En esta novena fase, se nos pidio  las conversiones entre las monedas. Se crearon tres clases en el package Conversion:
 
-![ ]()(#)
+![ ](https://github.com/CristhianSZ/Conversor_moneda_Alura_Challenger/blob/main/recursos/img/img3.png)(#)
 
 ### Clase Conversion
 
@@ -723,7 +723,7 @@ De esta manera, cada vez que se realiza una conversión de moneda, se agrega un 
 
 *Captura de pantalla de la ejecucion del proyecto mostrando resultados de conversion y se observa el contenido en el archivo `registros_data_time.json` en formato json, donde se registran y actualizan las consultas realizadas, incluyendo información sobre qué monedas se convirtieron*
 
-![ ]() 
+![ ](https://github.com/CristhianSZ/Conversor_moneda_Alura_Challenger/blob/main/recursos/img/img4.png) 
 
 Registro en el archivo `registros_data_time.json`:
 ```
@@ -884,3 +884,21 @@ public class LocalDateTimeAdapter implements JsonSerializer<LocalDateTime>, Json
     "timestamp": "2024-04-22 14:17:03"
   }
 ```
+
+### 14. Video Y Capturas de pantalla
+
+&nbsp;
+
+![ ](https://github.com/CristhianSZ/Conversor_moneda_Alura_Challenger/blob/main/recursos/img/img5.png)  
+
+&nbsp;
+
+![ ](https://github.com/CristhianSZ/Conversor_moneda_Alura_Challenger/blob/main/recursos/img/img6.png) 
+
+&nbsp;
+
+![ ](https://github.com/CristhianSZ/Conversor_moneda_Alura_Challenger/blob/main/recursos/img/img7.png)  
+
+&nbsp;
+
+![ ](https://github.com/CristhianSZ/Conversor_moneda_Alura_Challenger/blob/main/recursos/img/img8.png) 
